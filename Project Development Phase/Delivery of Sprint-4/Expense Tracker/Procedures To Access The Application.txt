@@ -1,0 +1,5 @@
+                                                                                                     Steps To Access The Application
+
+Step 1:PIP Install Django
+
+Step 2:Python Manage.py Run Server
